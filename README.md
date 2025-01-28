@@ -1,8 +1,18 @@
-# React + Vite
+###Leo's Banking DApp
+A simple decentralized banking application that allows users to deposit, withdraw, and check their balance.
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+###Deposit funds
+Withdraw funds
+Check account balance
+Real-time balance updates
+Toast notifications for transaction status
 
-Currently, two official plugins are available:
+###Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js and npm installed
+Web3 wallet (like MetaMask) installed in your browser
+Connection to a supported blockchain network
+
+###Wallet Address
+0xa4429033A0a38A764a42b494a11f980F622d91Df
